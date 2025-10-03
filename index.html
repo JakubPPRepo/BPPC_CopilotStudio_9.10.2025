@@ -1,62 +1,89 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Jakub Nawacki - Copilot Studio Resources</title>
+    <title>Copilot Studio Resources</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style>
         body {
-            font-family: Arial, sans-serif;
-            margin: 40px;
-            background-color: #f4f4f4;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f9f9f9;
+            color: #333;
+        }
+        .container {
+            max-width: 960px;
+            margin: auto;
+            padding: 20px;
         }
         header {
             text-align: center;
-            margin-bottom: 40px;
+            padding: 40px 20px 20px;
         }
-        h1 {
-            color: #333;
+        header h1 {
+            font-size: 2em;
+            margin-bottom: 10px;
         }
-        p {
+        header p {
             font-size: 1.1em;
-            color: #555;
+            color: #666;
+        }
+        img {
+            display: block;
+            max-width: 100%;
+            height: auto;
+            margin: 30px auto;
+            border-radius: 8px;
+        }
+        section {
+            margin-top: 40px;
+        }
+        section h2 {
+            font-size: 1.5em;
+            margin-bottom: 20px;
         }
         ul {
             list-style-type: none;
-            padding: 0;
+            padding-left: 0;
         }
         li {
-            margin: 10px 0;
+            margin-bottom: 15px;
         }
         a {
             text-decoration: none;
             color: #0078D4;
+            font-weight: 500;
         }
         a:hover {
             text-decoration: underline;
         }
-        .container {
-            max-width: 800px;
-            margin: auto;
-            background: white;
-            padding: 30px;
-            border-radius: 8px;
-            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        @media (max-width: 600px) {
+            header h1 {
+                font-size: 1.5em;
+            }
+            section h2 {
+                font-size: 1.2em;
+            }
         }
     </style>
 </head>
 <body>
     <div class="container">
         <header>
-            <h1>CopilotStudio Presentation </h1>
-            <p>Down below you can find some links - really good ones to work with Copiot studio</p>
+            <h1>Copilot Studio Resources</h1>
+            <p>Explore useful links and materials to get started with Microsoft Copilot Studio.</p>
         </header>
+        <img src="https://storage.mlcdn.com/account_image/518224/5DrEDhNyWnBLS1JG55Dvb5pEqI3p6NWrQvfoVrjZ.png" alt="Copilot Studio Banner">
         <section>
-            <h2>📚 Links</h2>
+            <h2>Useful Links</h2>
             <ul>
                 <li><a href="https://go.microsoft.com/fwlink/?LinkId=2107702" target="_blank">Start a free trial of Copilot Studio</a></li>
-                <li><a href="https://www.microsoft.com/en-us/microsoft-365-copilot/microsoft-copilot-studio" target="_blank">Copilot studio-Microsoft</a></li>
+                <li><a href="https://www.microsoft.com/en-us/microsoft-365-copilot/microsoft-copilot-studio" target="_blank">Copilot studio - Microsoft</a></li>
                 <li><a href="https://microsoft.github.io/copilot-camp/pages/make/copilot-studio/" target="_blank">Copilot Studio Labs</a></li>
             </ul>
         </section>
     </div>
 </body>
+</html>
