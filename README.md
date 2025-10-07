@@ -26,14 +26,17 @@ Copilot Studio part:
   <img width="884" height="697" alt="image" src="https://github.com/user-attachments/assets/5cba8718-fb3c-4e75-9539-f7c060a9a8cb" />
 
 2. Select ServiceNow connector:
+   
    <img width="1004" height="531" alt="image" src="https://github.com/user-attachments/assets/dbacbd79-11f7-45b2-8864-3c8b0d219ecc" />
 
-3. Choose "Create new connection":
+4. Choose "Create new connection":
+   
    <img width="356" height="254" alt="image" src="https://github.com/user-attachments/assets/070f4031-913f-4f7d-92a3-7b28414fab88" />
 
-4. Fill all 3 mandatory fields:
+5. Fill all 3 mandatory fields:
      - Instance Name - it's your dev.....// find it on https://developer.servicenow.com/
      - Client Id & Client secret- take it from here:
+       
        <img width="532" height="132" alt="image" src="https://github.com/user-attachments/assets/bfe76794-0a5c-4df5-8e08-99afce8d30e5" />
 
        
