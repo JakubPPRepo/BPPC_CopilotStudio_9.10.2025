@@ -51,18 +51,18 @@ Copilot Studio part:
     
 8. Now we know that unitedstates-002 is our redirect_uri- that's why we need to update this parameter in ServiceNow:
 
-       <img width="406" height="54" alt="image" src="https://github.com/user-attachments/assets/70026ff6-e765-4100-a234-9c9c98dcc7da" />
+   <img width="406" height="54" alt="image" src="https://github.com/user-attachments/assets/70026ff6-e765-4100-a234-9c9c98dcc7da" />
 
 
 9. After click on "Update" in ServiceNow, get back to CopilotStudio, try once again:
     If you update the connector in ServiceNow without errors, the login window should look like this:
    
-       <img width="595" height="667" alt="image" src="https://github.com/user-attachments/assets/90489239-92d4-4d6a-a686-93e6ee14c155" />
+   <img width="595" height="667" alt="image" src="https://github.com/user-attachments/assets/90489239-92d4-4d6a-a686-93e6ee14c155" />
 
 11. Login with your login and password to development instance
 12. In last step you can add the tables that you want use further in topics:
 
-        <img width="994" height="739" alt="image" src="https://github.com/user-attachments/assets/692ea95b-00a5-431c-be5f-c5c3b5e1ae87" />
+     <img width="994" height="739" alt="image" src="https://github.com/user-attachments/assets/692ea95b-00a5-431c-be5f-c5c3b5e1ae87" />
 
 
     
