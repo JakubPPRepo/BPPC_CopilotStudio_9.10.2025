@@ -41,7 +41,23 @@ Copilot Studio part:
 
        
 
+6. Click "Connect" button, then we should see a following pop-up:
+   
+   <img width="604" height="677" alt="image" src="https://github.com/user-attachments/assets/4feec80b-28f0-4bc2-a7dd-3355fee75501" />
 
+7. No worries, now let's look at the link:
+   
+    <img width="574" height="69" alt="image" src="https://github.com/user-attachments/assets/313720c9-df0f-4ea2-8d08-d444e26bf25a" />
+    
+8. Now we know that unitedstates-002 is our redirect_uri- that's why we need to update this parameter in ServiceNow:
+
+   <img width="406" height="54" alt="image" src="https://github.com/user-attachments/assets/70026ff6-e765-4100-a234-9c9c98dcc7da" />
+
+9. After click on "Update" in ServiceNow, get back to CopilotStudio, try once again:
+
+    
+
+   
 
 
 
